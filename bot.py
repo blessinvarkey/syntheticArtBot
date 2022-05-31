@@ -1,11 +1,11 @@
 from urllib import response
 import tweepy
 
-#API_KEY = ''
-#API_SECRET = ''
-#ACCESS_TOKEN = ''
-#SECRET_ACCESS_TOKEN = ''
-#BEARER_TOKEN = ''
+#API_KEY = 'input_key_here'
+#API_SECRET = 'input_key_here'
+#ACCESS_TOKEN = 'input_key_here'
+#SECRET_ACCESS_TOKEN = 'input_key_here'
+#BEARER_TOKEN = 'input_key_here'
 
 
 client = tweepy.Client(consumer_key =API_KEY, consumer_secret= API_SECRET, access_token = ACCESS_TOKEN, access_token_secret =SECRET_ACCESS_TOKEN)
